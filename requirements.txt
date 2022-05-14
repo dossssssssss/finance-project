@@ -3,3 +3,4 @@ pandas
 altair
 plotly
 beautifulsoup4
+matplotlib
