@@ -1,0 +1,5 @@
+yfinance
+pandas
+altair
+plotly
+beautifulsoup4
